@@ -37,7 +37,7 @@
     },
     "devDependencies": {
         "vitest": "^4.0.17",
-        "wrangler": "^4.14.1"
+        "wrangler": "^4.63.0"
     },
     "overrides": {
         "entities": "^7.0.0",
